@@ -11,11 +11,9 @@ This repository is to demonstarte my dev ops skill by deploying full stack web a
 
 # DevConnector 2.0
 
-> Social network for developers
-
 This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
 
-# Quick Start 🚀
+# Quick Start 
 
 ### Add a default.json file in config folder with the following
 
