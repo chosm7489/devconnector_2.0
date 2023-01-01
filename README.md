@@ -2,13 +2,13 @@
 
 This repository is a showcase to demonstarte my dev ops skill by deploying full stack web application from Udemy course provided from Brad Traversy. 
 
-**Depolyment Process **
-1. Build docker image locally
+** Depolyment Process **
+1. Build docker image of DevConnector 2.0 locally
 2. Push the image to ECR
 3. Fetch image from ECR inside EC2 instance
 4. Run container of the image in EC2 instance
 
-Access the EC2 instance through http://54.172.84.247:3000/
+Access DevConnector 2.0 running in the EC2 instance through http://54.172.84.247:3000/
 
 This diagram is to visualize the depolyment process above.  
 ![Blank diagram](https://user-images.githubusercontent.com/81988553/210157797-3061f26c-8dab-45fe-859a-945376176067.jpeg)
