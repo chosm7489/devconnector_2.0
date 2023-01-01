@@ -1,6 +1,6 @@
 # Description
 
-This repository is to demonstarte my dev ops skill by deploying full stack web application from Udemy course provided from Brad Traversy. 
+This repository is a showcase to demonstarte my dev ops skill by deploying full stack web application from Udemy course provided from Brad Traversy. 
 
 **Depolyment Process **
 1. Make docker image locally
