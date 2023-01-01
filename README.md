@@ -2,7 +2,7 @@
 
 This repository is to demonstarte my dev ops skill by deploying full stack web application from Udemy course provided from Brad Traversy. 
 
-Depoly steps 
+**Depolyment Process **
 1. Made docker image locally
 2. Pushed it to ECR
 3. Fetched image from ECR
